@@ -4,6 +4,7 @@ category: event
 title: Map Frederiksborg Castle
 rsvp: http://www.meetup.com/Maptime-Copenhagen/events/224738258/
 ---
+![Frederiksborg Castle](https://upload.wikimedia.org/wikipedia/commons/2/22/Frederiksborg_Castle_and_boat_crop.jpg)
 
 Join the first mapping event under the Maptime Copenhagen chapter. We will be using Mapillary to gather POI information that we will then be inputting into OpenStreetMap (OSM). We will also be creating a visual representation of Frederiksborg Castle that will get better and better with the more contributors that take part.
 
